@@ -8,17 +8,16 @@ Links
 My process
 Built with
 What I learned
-Useful resources
-Author
-Overview
-The challenge
+
+
+The challenge:
+Create an interactive app using JavaScript.
 
 Users should be able to:
 Interact with the app to increase and save their sets.
 
 Links
-Solution URL: https://www.frontendmentor.io/solutions/responsive-testimonal-using-css-grid-Vd1C7huXtn
-Live Site URL: https://vcalvo25.github.io/testimonial-grid/
+Live Site URL: [https://vcalvo25.github.io/testimonial-grid/](https://vcalvo25.github.io/set-counter/)
 
 My process
 Built with
